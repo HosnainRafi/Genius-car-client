@@ -5,7 +5,7 @@ const Footer = () => {
 
     return (
         <div>
-            <footer className="footer p-24 mt-8 bg-neutral text-neutral-content">
+            <footer className="footer p-24 bg-neutral text-neutral-content">
                 <div>
                     <img src={logo} alt="" />
                     <p>ACME Industries Ltd.<br />Providing reliable tech since 1992</p>
